@@ -1,0 +1,32 @@
+C:\Users\hernae\source\repos\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\hernae\source\repos\Pantallas\Pantallas\bin\Debug\Pantallas.exe
+C:\Users\hernae\source\repos\Pantallas\Pantallas\bin\Debug\Pantallas.pdb
+C:\Users\hernae\source\repos\Pantallas\Pantallas\obj\Debug\Pantallas.csprojAssemblyReference.cache
+C:\Users\hernae\source\repos\Pantallas\Pantallas\obj\Debug\Pantallas.Form1.resources
+C:\Users\hernae\source\repos\Pantallas\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+C:\Users\hernae\source\repos\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.cache
+C:\Users\hernae\source\repos\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.CoreCompileInputs.cache
+C:\Users\hernae\source\repos\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\hernae\source\repos\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+C:\Users\dominj\Work Folders\Desktop\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\dominj\Work Folders\Desktop\Pantallas\Pantallas\bin\Debug\Pantallas.exe
+C:\Users\dominj\Work Folders\Desktop\Pantallas\Pantallas\bin\Debug\Pantallas.pdb
+C:\Users\dominj\Work Folders\Desktop\Pantallas\Pantallas\obj\Debug\Pantallas.csprojAssemblyReference.cache
+C:\Users\dominj\Work Folders\Desktop\Pantallas\Pantallas\obj\Debug\Pantallas.FrmAlarmas.resources
+C:\Users\dominj\Work Folders\Desktop\Pantallas\Pantallas\obj\Debug\Pantallas.FrmPrincipal.resources
+C:\Users\dominj\Work Folders\Desktop\Pantallas\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+C:\Users\dominj\Work Folders\Desktop\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.cache
+C:\Users\dominj\Work Folders\Desktop\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.CoreCompileInputs.cache
+C:\Users\dominj\Work Folders\Desktop\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\dominj\Work Folders\Desktop\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+C:\Users\DominJ\OneDrive - Werner Co\Desktop\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\DominJ\OneDrive - Werner Co\Desktop\Pantallas\Pantallas\bin\Debug\Pantallas.exe
+C:\Users\DominJ\OneDrive - Werner Co\Desktop\Pantallas\Pantallas\bin\Debug\Pantallas.pdb
+C:\Users\DominJ\OneDrive - Werner Co\Desktop\Pantallas\Pantallas\obj\Debug\Pantallas.csprojAssemblyReference.cache
+C:\Users\DominJ\OneDrive - Werner Co\Desktop\Pantallas\Pantallas\obj\Debug\Pantallas.FrmAlarmas.resources
+C:\Users\DominJ\OneDrive - Werner Co\Desktop\Pantallas\Pantallas\obj\Debug\Pantallas.FrmPrincipal.resources
+C:\Users\DominJ\OneDrive - Werner Co\Desktop\Pantallas\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+C:\Users\DominJ\OneDrive - Werner Co\Desktop\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.cache
+C:\Users\DominJ\OneDrive - Werner Co\Desktop\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.CoreCompileInputs.cache
+C:\Users\DominJ\OneDrive - Werner Co\Desktop\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\DominJ\OneDrive - Werner Co\Desktop\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
